@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site with gulp and yarn",
+  "main": "index.js",
+  "repository": "git@github.com:kelsS/portfolio.git",
+  "author": "kelsS <kswanson426@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.1.1"
+  }
+}
